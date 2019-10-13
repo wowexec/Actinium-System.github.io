@@ -1,6 +1,5 @@
 rem This is a common random program.
 rem made by AC
-rem If you cannot use it please delete the first 3 lines of the code.
 
 @echo off
 title Random 1.0
