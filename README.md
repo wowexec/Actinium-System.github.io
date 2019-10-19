@@ -1,8 +1,8 @@
 # Actinium-System Public Repository
 
-> Actinium is an element, the system is a public template repository.
+> Actinium is an element, AC-System is a public template repository.
 
-**Click here to my website.** 'actinium-system.github.io'
+> WEBSITE: actinium-system.github.io
 
 **Please respect intellectual property rights.**
 
